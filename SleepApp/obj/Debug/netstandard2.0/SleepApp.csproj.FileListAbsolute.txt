@@ -1,0 +1,14 @@
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\bin\Debug\netstandard2.0\SleepApp.deps.json
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\bin\Debug\netstandard2.0\SleepApp.dll
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\bin\Debug\netstandard2.0\ref\SleepApp.dll
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\bin\Debug\netstandard2.0\SleepApp.pdb
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\SleepApp.csprojAssemblyReference.cache
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\SleepApp.AssemblyInfoInputs.cache
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\SleepApp.AssemblyInfo.cs
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\SleepApp.csproj.CoreCompileInputs.cache
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\SleepApp.dll
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\ref\SleepApp.dll
+C:\Users\whaib\OneDrive\Desktop\Programs\Xamarin\SleepApp\SleepApp\obj\Debug\netstandard2.0\SleepApp.pdb
