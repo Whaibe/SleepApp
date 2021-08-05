@@ -28,7 +28,7 @@ namespace SleepApp
         {
             if (this.viewBox.Color == Color.Red)
             {
-                this.viewBox.Color = Color.Black;
+                this.viewBox.Color = Color.Blue;
             }
             else
             {
