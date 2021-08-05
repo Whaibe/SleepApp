@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wunn9AykLxf8VLH4NhdtE4rC8G/FVlpcpKh2NYKmMNNYNv6YyaVZcs+PvGSyOJeMgNbeEgTJtBanjuYSofusaA==",
+  "dgSpecHash": "u6kgFtBquBlnhBbaKTxzK/spdXIIFy5DkG90KCjVVzPmWD6MBUR/gN/YRLfiR4v5BrGCDjR+0GMnQw/wD+BuXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\whaib\\OneDrive\\Desktop\\Programs\\Xamarin\\SleepApp\\SleepApp.iOS\\SleepApp.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Nivams\\Documents\\GitHub\\SleepApp\\SleepApp.iOS\\SleepApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\whaib\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+    "N:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\Nivams\\.nuget\\packages\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],
   "logs": []
 }

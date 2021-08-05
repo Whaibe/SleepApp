@@ -1930,24 +1930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\whaib\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Nivams\\.nuget\\packages\\": {},
+    "N:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\whaib\\OneDrive\\Desktop\\Programs\\Xamarin\\SleepApp\\SleepApp.Android\\SleepApp.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Nivams\\Documents\\GitHub\\SleepApp\\SleepApp.Android\\SleepApp.Android.csproj",
       "projectName": "SleepApp.Android",
-      "projectPath": "C:\\Users\\whaib\\OneDrive\\Desktop\\Programs\\Xamarin\\SleepApp\\SleepApp.Android\\SleepApp.Android.csproj",
-      "packagesPath": "C:\\Users\\whaib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\whaib\\OneDrive\\Desktop\\Programs\\Xamarin\\SleepApp\\SleepApp.Android\\obj\\",
+      "projectPath": "C:\\Users\\Nivams\\Documents\\GitHub\\SleepApp\\SleepApp.Android\\SleepApp.Android.csproj",
+      "packagesPath": "C:\\Users\\Nivams\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nivams\\Documents\\GitHub\\SleepApp\\SleepApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "N:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\whaib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nivams\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1961,8 +1961,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\whaib\\OneDrive\\Desktop\\Programs\\Xamarin\\SleepApp\\SleepApp\\SleepApp.csproj": {
-              "projectPath": "C:\\Users\\whaib\\OneDrive\\Desktop\\Programs\\Xamarin\\SleepApp\\SleepApp\\SleepApp.csproj"
+            "C:\\Users\\Nivams\\Documents\\GitHub\\SleepApp\\SleepApp\\SleepApp.csproj": {
+              "projectPath": "C:\\Users\\Nivams\\Documents\\GitHub\\SleepApp\\SleepApp\\SleepApp.csproj"
             }
           }
         }

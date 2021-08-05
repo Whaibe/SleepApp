@@ -11,7 +11,7 @@
         <Label x:Name="sliderLable"/>
         <Slider x:Name="firstSlider" Minimum="0" Maximum="100" ThumbColor="Blue"/>
         <BoxView x:Name="viewBox" Color="Black" CornerRadius="2" WidthRequest="40" HeightRequest="40" VerticalOptions="Center" HorizontalOptions="Center"/>
-        <Label Text="Nivams" />
+        
     </StackLayout>
 
 </ContentPage>
